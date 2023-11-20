@@ -1,4 +1,4 @@
 [submodule "sensor_prototyping"]
 	path = sensor_prototyping
-	url = https://github.com/AnielShri/sensor_prototyping
+	url = git@github.com:AnielShri/sensor_prototyping.git
 	branch = master
