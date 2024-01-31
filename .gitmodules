@@ -2,3 +2,6 @@
 	path = sensor_prototyping
 	url = git@github.com:AnielShri/sensor_prototyping.git
 	branch = master
+[submodule "h00v3r_Mechanical"]
+	path = h00v3r_Mechanical
+	url = git@github.com:AnielShri/h00v3r_Mechanical.git
