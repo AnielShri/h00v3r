@@ -5,3 +5,6 @@
 [submodule "h00v3r_Mechanical"]
 	path = h00v3r_Mechanical
 	url = git@github.com:AnielShri/h00v3r_Mechanical.git
+[submodule "h00v3r_PCB"]
+	path = h00v3r_PCB
+	url = git@github.com:AnielShri/h00v3r_PCB.git
